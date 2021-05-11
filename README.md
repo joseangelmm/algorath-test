@@ -6,7 +6,7 @@
    "APIKey": "value",
    "APISecret": "value"
 } 
-//If you don't let me know to give you
+//If you don't have it let me know to give you
 
 3) Make a GET request to endpoint /start to conect with websocket
 
